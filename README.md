@@ -1,2 +1,2 @@
 # bookinfo-release-dev
-Repo Pages used to push bookinfo dev release
+Repo Pages used to push bookinfo DEV release
