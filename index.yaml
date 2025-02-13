@@ -3,6 +3,16 @@ entries:
   bookinfo:
   - apiVersion: v2
     appVersion: 1.16.3
+    created: "2025-02-13T18:37:56.245468782Z"
+    description: A Helm chart for Kubernetes
+    digest: d2758b8e18771d4f81f339ec92224ae55ec72be80abba05ddf049a23280a221d
+    name: bookinfo
+    type: application
+    urls:
+    - https://github.com/k8s-automation/bookinfo-release-dev/releases/download/bookinfo-0.1.17/bookinfo-0.1.17.tgz
+    version: 0.1.17
+  - apiVersion: v2
+    appVersion: 1.16.3
     created: "2025-02-12T22:33:03.458795141Z"
     description: A Helm chart for Kubernetes
     digest: e1c281cd46fbcfa049ff05b74c7bfa3eb764ebc189b9e199472dac648d26957b
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/k8s-automation/bookinfo-release-dev/releases/download/bookinfo-0.1.4-dev/bookinfo-0.1.16.tgz
     version: 0.1.16
-generated: "2025-02-12T22:33:03.458797803Z"
+generated: "2025-02-13T18:37:56.245477098Z"
